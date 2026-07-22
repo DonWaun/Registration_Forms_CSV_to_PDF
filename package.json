@@ -15,7 +15,7 @@
     "file-saver": "2.0.5",
     "papaparse": "5.5.4"
     "ajv": "6.12.6",
-    "ajv-keywords": "5.1.0"
+    "ajv-keywords": "3.5.2"
   },
   "devDependencies": {
     "@types/react": "19.0.0",
