@@ -62,6 +62,10 @@ const DEFAULT_MAPPING = {
   ParticipantSignature2: "Participant's Signature (2)",
   ParentSignature9: "Parent/Guardian's Signature (9)",
   EmergencyPhoneNumber: "Emergency Phone Number",
+  ParentGuardiansName: "Parent/Guardian's Name",
+  ParticipantsPhoneNumber: "Participant's Phone Number",
+  MemberID1: "Member ID",
+  ParentSignature8: "Parent/Guardian's Signature (8)",
 };
 
 export default function App() {
