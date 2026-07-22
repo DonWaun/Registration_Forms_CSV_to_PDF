@@ -13,13 +13,13 @@
     "pdf-lib": "1.17.1",
     "jszip": "3.10.1",
     "file-saver": "2.0.5",
-    "papaparse": "5.5.4"
+    "papaparse": "5.5.4",
     "ajv": "6.12.6",
     "ajv-keywords": "3.5.2"
   },
   "overrides": {
     "ajv": "^6.12.6"
-  }
+  },
   "devDependencies": {
     "@types/react": "19.0.0",
     "@types/react-dom": "19.0.0",
